@@ -1,0 +1,17 @@
+{
+  "name": "rccpp",
+  "version-string": "a93b46d32052f16f2f0e647ef180ac92afa88764",
+  "description": "Change C++ code at runtime",
+  "homepage": "https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
